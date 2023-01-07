@@ -1,0 +1,21 @@
+#orange{
+    background-color: orange;
+    width: 550px;
+    height: 55px;
+    margin: auto;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;
+    color: black;
+}
+
+#apple{
+    background-color: red;
+    width: 550px;
+    height: 55px;
+    margin: auto;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;
+    color: black;
+}
